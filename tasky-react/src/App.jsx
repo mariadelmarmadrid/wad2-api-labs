@@ -9,7 +9,7 @@ import ProfilePage from "./pages/profilePage";
 import AuthContextProvider from "./contexts/authContext";
 import ProtectedRoutes from "./protectedRoutes";
 import './App.css';
-import Header from "./components/SiteHeader";
+import Header from "./components/siteHeader";
 
 const queryClient = new QueryClient({
   defaultOptions: {
